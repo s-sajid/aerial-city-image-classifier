@@ -3,4 +3,5 @@ venv
 data
 Cityscape Dataset
 models/saved_models/*.pth
+!models/saved_models/resnet18.pth
 *.ipynb_checkpoints
